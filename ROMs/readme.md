@@ -1,4 +1,10 @@
-     Version 1.2
+[john1_2b.zip](https://github.com/jteddy/Johnny-Mnemonic-Pinball/blob/main/ROMs/john1_2b.zip) - Revision 1.2 game ROM - Belgium/Canada.
+[john1_2r.zip](https://github.com/jteddy/Johnny-Mnemonic-Pinball/blob/main/ROMs/john1_2r.zip) - Revision 1.2 game ROM - Regular.
+[jmsnd_10.zip](https://github.com/jteddy/Johnny-Mnemonic-Pinball/blob/main/ROMs/jmsnd_10.zip)- Revision 1.0 Sound ROMs
+
+## Revision History
+
+Version 1.2
        Date: October 31, 1995
 U6:    Checksum: FD12 (R - Regular)
 U6:    Checksum: DB12 (B - Belgium/Canada)
