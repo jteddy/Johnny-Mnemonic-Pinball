@@ -1,8 +1,16 @@
-# Johnny Mnemonic Pinball
+# Johnny Mnemonic Pinball Restoration
 
-Restoration Notes are located on the [Wiki](https://github.com/jteddy/Johnny-Mnemonic-Pinball/wiki/Johnny-Mnemonic-Pinball---Restoration-and-Troubleshooting-Notes)
+**Details**
 
-- ROMs - Rom Files
+- [Internet Pinball Database Link](https://www.ipdb.org/machine.cgi?id=3683)
+- [Rule Sheet](http://www.ipdb.org/rulesheets/3683/MNEMONIC.HTM)
+- [English Manual](https://www.ipdb.org/files/3683/Williams_1995_Johnny_Mnemonic_English_Manual.pdf)
+
+**MPU**: Williams WPC Security (WPC-S)
+
+
+
+
 
 References
 
@@ -16,7 +24,7 @@ https://pinside.com/pinball/forum/topic/johnny-mnemonic-is-there-an-owners-club-
 - http://iobium.com/rebuilding_the_monster_bash_drac.htm
 - https://blondihacks.com/johnny-more-button-repairs/
 
-# Upgrades
+# Code
 
 ## EPROM Game Rom V1.2R
 
@@ -54,7 +62,7 @@ U6: Checksum: DB12 (B – Belgium/Canada)
 
 - [IPDB Johnny Mnemonic](https://www.ipdb.org/machine.cgi?id=3683)
 
-# Tools
+# Tools Needed
 
 ## EEProm Programmer
 
@@ -65,7 +73,6 @@ U6: Checksum: DB12 (B – Belgium/Canada)
 - Minipro CLI - https://gitlab.com/DavidGriffith/minipro
   - https://github.com/blurpy/minipro
 - http://www.autoelectric.cn/en/tl866_main.html
-- 
 
 ## Desolder Station
 
@@ -79,12 +86,11 @@ U6: Checksum: DB12 (B – Belgium/Canada)
 
 - [Vevor Ultrasonic Cleaner](https://www.aliexpress.com/item/1005002848036769.html)
 
-# Mods
+# Refurbishment & Mods
 
 ## Pushbuttons
-
-- Launch Ball
-- 
+- Launch Ball Button
+- Push Buttons
 
 ## Speaker Grill
 
@@ -93,7 +99,6 @@ U6: Checksum: DB12 (B – Belgium/Canada)
 ## Powder Coat Legs
 
 - Candy Blue - https://pinside.com/pinball/forum/topic/johnny-mnemonic-is-there-an-owners-club-yet#post-720135
-- 
 
 ## Instruction Card
 
@@ -105,10 +110,31 @@ http://www.pinballcards.com/Search?submit_form=0&search=johnny+mnemonic
 
 
 ## Lighting
-- LED Spotlights?
-All UltiFlux LED's have a build in AC-DC rectifier and condensator to avoid flickering and ghosting!
-- Frosted CT in the GI. 2 x LED Dome Tops
-- Green light strip at shooting ramp
+Lamp locations are on page 2-33 in the [manual](https://www.ipdb.org/files/3683/Williams_1995_Johnny_Mnemonic_English_Manual.pdf). I've pulled this [LED matrix spreadsheet](https://docs.google.com/spreadsheets/d/1CvhIiWRDLbb_Tdiq7_de3eirNcdGci7YkZGM_xbdUSs/edit?usp=sharing) from [afpinball](https://www.afpinball.com/restorations/johnny-mnemonic-2).
+
+[Pinside Post on LEDs](https://pinside.com/pinball/forum/topic/johnny-mnemonic-is-there-an-owners-club-yet/page/81#post-7065154)
+
+My Count
+
+Backbox 555- Quantity:25
+Type:555 - Quantity:48
+Type:89 - Quantity:2
+Type:906 - Quantity:2
+Type:44 - Quantity:45
+
+- LED OCD Board - [Comet Pinball](https://www.cometpinball.com/products/led-ocd-boards?variant=12493661700140) - $150 USD -> $217 AUD
+- 
+
+The Yoppsicle LEDs only work in Bally games. They do not work well in Williams games with a lamp matrix. https://youtu.be/iPTS25AOB8g?t=1043. A version will be coming out in the future for this.
+
+- [Pinballbulbs](https://www.pinballbulbs.com/products/johnny-mnemonic-pinball-ultimate-led-lighting-kit) - $220 USD
+- 
+
+**Lighting Strips**
+
+## Game Blades
+
+
 
 ## Rubbers
 
@@ -121,12 +147,9 @@ Examples
 - https://pinside.com/pinball/forum/topic/johnny-mnemonic-is-there-an-owners-club-yet/page/4#post-1232645
 
 ## Glass
-
-
+- [PDI Glass](https://www.pinballdecals.com/NonGlareOpticalGlassPage.html) Purchased
 
 ## Spinner Replacement
-
-
 
 ## Game Blades
 - https://mezelmods.com/products/johnny-mnemonic-gameblades?_pos=1&_sid=a776e28a4&_ss=r
@@ -165,11 +188,77 @@ clock to 11:58 and play a game
 
 # Game Upgrades, Repairs and Issues Encountered
 
+## Glove Parts
 
+As the machine is apart it is recommended just to replace the X and Y nuts as that is the piece that wears out.
+
+**X-Nut**
+
+- [Marcospecialties](https://www.marcospecialties.com/pinball-parts/02-5210) - $8.49 USD -> $12.29 AUD
+- [PSPA](https://www.pinballspareparts.com.au/02-5210.html) - $9.07
+
+**Y-Nut**
+
+- [Marcospecialties](https://www.marcospecialties.com/pinball-parts/02-5211) - $10.991USD -> $15.90 AUD
+- [PSPA](https://www.pinballspareparts.com.au/02-5211.html) - $24.96 AUD
+
+## Buttons
+
+**Start Button**
+
+- Original Green - [Marco](https://www.marcospecialties.com/pinball-parts/20-9663-2) - $11.99 USD
+- Blue - [Pinball Life](https://www.pinballlife.com/williamsballystern-blue-start-button.html) - $8.95 USD
+
+**Extra Ball Button**
+
+- [Marco](https://www.marcospecialties.com/pinball-parts/20-9663-21) - $8.99 USD
+
+**Launch Ball Button**
+
+- [Marco](https://www.marcospecialties.com/pinball-parts/20-9663-B-4) - $10.99 USD
+- [PinballLife](https://www.pinballlife.com/williamsbally-launch-ball-button-red.html) - $8.95 USD
+
+**Flipper Buttons**
+
+- Dark Blue - [PSPA](https://www.pinballspareparts.com.au/parts-by-machine/williams-parts/johnny-mnemonic/a-16883-d.html) - $3.30 AUD
+- Blue - [Marco](https://www.marcospecialties.com/pinball-parts/A-16883-1) - $2.49 USD  - $3.60
+- Red - [PSPA](https://www.pinballspareparts.com.au/parts-by-machine/williams-parts/johnny-mnemonic/a-16883-4.html) - $3.30
+- Red - [Marco](https://www.marcospecialties.com/pinball-parts/A-16883-4) - $4.49 USD
+- Red/Blue - [PinballHaus](https://pinballhaus.com/shop/parts/cabinet-parts/flipper-buttons-spring-loaded-a-16883-xx/?v=6cc98ba2045f) - $3.95
+- Pinballlife - $[1.75](https://www.pinballlife.com/cabinet-flipper-button-opaque-1-18-shaft.html)
+
+## Spinner
+
+- Decal - [PSPA](https://www.pinballspareparts.com.au/31-2510.html) - $9.98 AUD
+- Decal - [Marco](https://www.marcospecialties.com/pinball-parts/31-2510) - $9.99 USD
+
+## Target Switch Face
+
+- [Marco's](https://www.marcospecialties.com/pinball-parts/03-9296-9) - $1.49
+
+## Ribbon Cables
+
+Recommended to buy new ribbon cables as 
+
+## Nuts & Bolts
+
+**Wingnut**
+
+- [Marco](https://www.marcospecialties.com/pinball-parts/20-9718) - $3.69 USD
+
+## Foam Rubber
+
+- https://www.marcospecialties.com/pinball-parts/23-6534-X
+- 
 
 ## Batteries vs NVRAM
 
 
+
+## Rubbers
+
+- [Pinball Haus](https://pinballhaus.com/shop/silicone-bands/titan-band-game-kits/bally-midway-williams/titan-rubber-kits-for-bally-midway-williams/?v=6cc98ba2045f) - $55 AUD
+- Titan
 
 ## NVRAM
 
