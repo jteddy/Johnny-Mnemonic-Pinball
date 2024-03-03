@@ -173,10 +173,30 @@ Examples
 # Body Restoration
 ## Decals
 
-\- https://pinballdecalseu.com/shop/johnny-mnemonic-pinball-cabinet-decals-set/
-\- [ebay.com link: itm](https://ebay.com/itm/303651822380?mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337059215&customid=&toolid=10001&mkevt=1)
-\- https://www.pinball.center/en/shop/pinball-parts-by-game/johnny-mnemonic/9955/cabinet-decal-set-for-johnny-mnemonic?c=2101
-\- https://classic-arcades.com/shop?keywords=johnny&olsPage=products%2Findianapolis-500-decals-next-gen FAULTY
+Table
+
+| Site                                                         | Price w ship | Comments                                       |
+| ------------------------------------------------------------ | ------------ | ---------------------------------------------- |
+| [Pinball Decals EU](https://pinballdecalseu.com/shop/johnny-mnemonic-pinball-cabinet-decals-set/) | $362         | recommended by a poster on pinside             |
+| [Pinball Center](https://www.pinball.center/en/shop/pinball-parts-by-game/johnny-mnemonic/9955/cabinet-decal-set-for-johnny-mnemonic?c=2101) |              |                                                |
+| [Classic Arcades](https://classic-arcades.com/shop/ols/products/indianapolis-500-decals-next-gen) |              | Does not fit. Problem may have been corrected. |
+| [Pinball Haus](https://pinballhaus.com/shop/decals/cabinet-decals/johnny-mnemonic-cabinet-decals/?v=6cc98ba2045f) |              |                                                |
+| [Ministry of Pinball](https://www.ministryofpinball.com/en/johnny-mnemonic-cabinet-decals.html) |              |                                                |
+| [AVO Pinball](https://avo-pinball.de/no-fear-gehaeuse-decal-set-next-generation_1) |              |                                                |
+| [Mikonos - Self Created](https://www.pinballinfo.com/community/threads/pinball-artworks-restored-reproductions-graphical-mods-and-customizations.43376/page-2#post-309723) |              |                                                |
+
+
+
+## Playfield Protectors
+
+
+
+Playfield Protector
+
+[Pinball Center](https://www.pinball.center/en/shop/pinball-parts-by-game/johnny-mnemonic/9641/printed-playfield-protector-for-johnny-mnemonic)
+
+https://www.pinball.center/en/shop/pinball-parts-by-game/johnny-mnemonic/9436/playfield-protector-for-johnny-mnemonic?c=2101
+
 
 
 
